@@ -1,6 +1,6 @@
 # fcitx5-shushu-theme
 
-根据https://www.figma.com/community/file/1166934605535869911实现的一个Fcitx5主题。
+根据 https://www.figma.com/community/file/1166934605535869911 实现的一个Fcitx5主题。
 
 ![](static.png)
 
